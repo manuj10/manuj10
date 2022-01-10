@@ -23,6 +23,11 @@ Technologies Used: Apache Pyspark , Python
 <!--  work -->
 We also submitted project results to Chexpert competition(https://stanfordmlgroup.github.io/competitions/chexpert/).
 
+<!--  work -->
+A Dynamic hand gesture recognition system for controlling VLC media player : (https://github.com/manuj10/gesture_recog : request access to see code)<!--  work -->
+
+IEEE publication : https://ieeexplore.ieee.org/document/6524715?arnumber=6524715&contentType=Conference%20Publications
+
 
 📫 How to reach me: mail me @ contact@manujpaliwal.com
 <!-- 😄 Pronouns: ...
