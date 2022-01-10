@@ -21,7 +21,7 @@ Given the recent large availability of large, labeled datasets of disease diagno
 <!--  work -->
 Technologies Used: Apache Pyspark , Python
 <!--  work -->
-We also submitted project results to Chexpert competition(https://stanfordmlgroup.github.io/competitions/chexpert/) and got listed on Leaderboard.
+We also submitted project results to Chexpert competition(https://stanfordmlgroup.github.io/competitions/chexpert/).
 
 
 📫 How to reach me: mail me @ contact@manujpaliwal.com
