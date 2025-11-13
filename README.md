@@ -40,7 +40,6 @@ DynamoDB | PostgreSQL | OpenSearch | QuickSight | Data Pipelines
 
 ### 🌟 Key Achievements
 - 📊 Architected conversation analytics platform processing thousands of monthly interactions
-- 🚀 Improved user engagement by 30% through intelligent intent classification systems
 - 👥 Scaled engineering teams from startup to acquisition
 - 💡 Co-founded and served as CTO at Mensari (startup journey)
 - 🏗️ Built enterprise fintech solutions at Q2 Software/Cloud Lending Solutions
