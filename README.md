@@ -1,6 +1,6 @@
 # Hi there, I'm Manuj 👋
 
-## 🚀 Staff Software Engineer | AI/ML Platform Architect | Tech Lead
+## 🚀 AI/ML Platform Architect
 
 I'm a passionate technologist with 12+ years of experience building scalable systems and leading engineering teams. Currently architecting AI/ML platforms at [App0](https://app0.com), where I'm working on agentic AI systems, conversation analytics, and intelligent post-purchase flows for ecommerce merchants.
 
