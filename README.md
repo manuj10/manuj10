@@ -17,7 +17,7 @@ Building 30+ AI/ML components from scratch over 8 weeks:
 
 **Why?** The best way to understand something is to build it.
 
-👉 Follow the journey: [build-your-own-ai](link-to-repo)
+👉 Follow the journey: [build-your-own-ai](https://github.com/manuj10/build-your-own-ai)
 
 ## 💼 Background
 - Staff Engineer at App0 (Conversation Analytics, RAG, GPT/BERT)
