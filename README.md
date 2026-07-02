@@ -1,6 +1,6 @@
 # Manuj Paliwal
 
-Engineering Lead, Document AI @ [UPTIQ](https://uptiq.ai) — document intelligence
+Engineering Lead, Document AI @ [UPTIQ](https://www.uptiq.ai/document-ai) — document intelligence
 for banks and lenders. 12 years in lending technology.
 
 **Now:** extraction, fraud detection, and financial analysis across 150+ document
