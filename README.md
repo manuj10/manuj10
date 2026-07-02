@@ -1,34 +1,18 @@
-# Hi, I'm Manuj 👋
+# Manuj Paliwal
 
-Staff Engineer building production AI systems. 12 years shipping software. Former technical co-founder.
+Engineering Lead, Document AI @ [UPTIQ](https://uptiq.ai) — document intelligence
+for banks and lenders. 12 years in lending technology.
 
-## 🔭 Current Project: Build Your Own AI
+**Now:** extraction, fraud detection, and financial analysis across 150+ document
+types for commercial lending. I lead the team and still write the hard parts.
 
-Building 30+ AI/ML components from scratch over 8 weeks:
+**Before:** loan origination platforms at Q2/Cloud Lending (intern → Engineering
+Manager, 9 years, 50+ institutions), co-founder & CTO at Mensari (Alliance DAO,
+TechCrunch featured), AI guardrails and agentic systems at App0.
 
-- [ ] Autograd engine
-- [ ] Tokenizer (BPE)
-- [ ] Transformer from scratch
-- [ ] Vector database (HNSW)
-- [ ] RAG pipeline
-- [ ] Inference server
-- [ ] LoRA trainer
-- [ ] ...and more
+**Background:** MS CS, Georgia Tech (Interactive Intelligence, 2026).
+[IEEE paper on hand gesture recognition (2013)](https://ieeexplore.ieee.org/document/6524715).
 
-**Why?** The best way to understand something is to build it.
+**Writing:** [manujpaliwal.com](https://www.manujpaliwal.com) · [Substack](https://manujpaliwal.substack.com)
 
-👉 Follow the journey: [build-your-own-ai](https://github.com/manuj10/build-your-own-ai)
-
-## 💼 Background
-- Staff Engineer at App0 (Conversation Analytics, RAG, GPT/BERT)
-- Former CTO at Mensari
-- Led engineering through Q2 acquisition
-- MS Computer Science, Georgia Tech (Artificial Intelligence)
-
-## 🌍 Beyond Code
-Runner. Photographer. Home chef. Trail explorer.
-
-## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/manujpaliwal)
-- [Twitter](https://x.com/ManujPaliwal)
-- manuj.paliwal@gmail.com
+📫 manuj.paliwal@gmail.com
